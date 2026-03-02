@@ -1,10 +1,10 @@
-<!DOCTYPE html >
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
-    <title> Project One </title>
+    <title> Project Resume </title>
 </head>
 
 <body>     
@@ -15,11 +15,13 @@
     </sections>
     <hr>
     <hr>
-    <img src="WK.1.jpg" width="250">
+    </h1>
+    <img src="WK.1.jpg" width="250" height="200">
     <hr>
     <hr>
    
         </div>
+        
         <div>
     <sections>
     <h1> Objective</h1>
@@ -39,18 +41,18 @@
             <li> Advanced typing skills </li>
             <li> Basic Life Support by American Heart Association (2022) </li>
             <li> Advanced Problem Solving </li>
-        </ol>
-        <hr><hr>
+        </ol><hr><hr>
         </div>
         
         <div>
-    <sections><h1> Job Experience </h1></sections>
+    <sections>
+    <h1> Job Experience </h1>
+    </sections>
         <table border="3">
             <tr>
                 <th> Company </th>
                 <th> Position </th>
                 <th> Duration </th>
-             </tr>
              <tr>
                 <td> Amazon fulfillment Center </td>
                 <td> Operations specialist logistics </td>
@@ -66,14 +68,13 @@
                 <td> Sales associate </td>
                 <td> September 06th, 2023 </td>
             </tr>
-        </table>
-        <hr><hr>
+        </table><hr><hr>
         </div>
         
         <div>
-    
-    <sections><h1> Projects </h1></sections>
-    
+    <sections>
+    <h1> Projects </h1>
+    </sections>
         <ul type="square">
             <li> UP_DOWN_SQUARE </li>
             <li> pink_CIRCLE </li>
@@ -97,8 +98,8 @@
     </sections>
         <ol type="i"> 
             <li> <a href="https://www.linkedin.com/in/laroz-brice-92144a339/" ></li> Linkedin Profile </a>
-            <li> <a href="lbrice@ggc.edu"></li> Outlook Email </a> 
-        </ol>
+            <li> <a href="lbrice@ggc.edu"></li> Outlook Email </a> </ol>
+        
         <hr><hr>
         </div>  
         <div>
@@ -109,10 +110,6 @@
             <li><i> Ava Lavell: (555)-888-777 </i></li>
             <li><i> Aj Swift: (333)-444-888 </i></li>
         </ul>
-
-
-
-
         </div>
 </body>
 
