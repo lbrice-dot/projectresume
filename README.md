@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html >
 <html lang="en">
 
 <head>
@@ -15,7 +15,6 @@
     </sections>
     <hr>
     <hr>
-    </h1>
     <img src="WK.1.jpg" width="250">
     <hr>
     <hr>
@@ -99,7 +98,8 @@
         <ol type="i"> 
             <li> <a href="https://www.linkedin.com/in/laroz-brice-92144a339/" ></li> Linkedin Profile </a>
             <li> <a href="lbrice@ggc.edu"></li> Outlook Email </a> 
-        </ol><hr><hr>
+        </ol>
+        <hr><hr>
         </div>  
         <div>
     <sections>
