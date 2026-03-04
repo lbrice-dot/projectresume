@@ -1,13 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
+    <!DOCTYPE html>
+    <html lang="en">
 
-<head>
+    <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
     <title> Project Resume </title>
-</head>
+    </head>
 
-<body>     
+    <body>     
         
         <div>
     <sections>
@@ -15,7 +15,6 @@
     </sections>
     <hr>
     <hr>
-    </h1>
     <img src="WK.1.jpg" width="250" height="200">
     <hr>
     <hr>
@@ -53,6 +52,7 @@
                 <th> Company </th>
                 <th> Position </th>
                 <th> Duration </th>
+             </tr>
              <tr>
                 <td> Amazon fulfillment Center </td>
                 <td> Operations specialist logistics </td>
@@ -97,8 +97,8 @@
     <h1> Social Media </h1>
     </sections>
         <ol type="i"> 
-            <li> <a href="https://www.linkedin.com/in/laroz-brice-92144a339/" ></li> Linkedin Profile </a>
-            <li> <a href="lbrice@ggc.edu"></li> Outlook Email </a> </ol>
+            <li> <a href="https://www.linkedin.com/in/laroz-brice-92144a339/" </li> Linkedin Profile </a>
+            <li> <a href="lbrice@ggc.edu" </li> Outlook Email </a>
         
         <hr><hr>
         </div>  
@@ -111,6 +111,5 @@
             <li><i> Aj Swift: (333)-444-888 </i></li>
         </ul>
         </div>
-</body>
-
-</html>
+    </body>
+    </html>
