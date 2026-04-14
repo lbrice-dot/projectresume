@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Shield & Script Solutions – Security Dashboard</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="stylesss.css">
 </head>
 
 <body>
@@ -25,6 +25,18 @@
 
   <div class="image-box">
     <img src="AVG.$.jpg" alt="Security Image">
+  </div>
+
+  <!-- Service Boxes -->
+  <section class="services">
+    <div class="service-box">Firewall Monitoring</div>
+    <div class="service-box">Threat Detection</div>
+    <div class="service-box">Data Encryption</div>
+  </section>
+
+</body>
+</html>
+Image">
   </div>
 
   <!-- Service Boxes -->
